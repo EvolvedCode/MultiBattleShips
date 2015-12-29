@@ -1,0 +1,12 @@
+body {
+    overflow: hidden;
+}
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+	max-width: 97%;
+    max-height: 97%;
+	cursor:url("file:///C:/Users/Nick/Desktop/MultiBattleShips/images/cursor.png"), auto;
+}
